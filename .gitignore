@@ -1,0 +1,15 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# MAC
+.DS_Store
+
+# Eclipse
+.settings
+.project
+.buildpath
+
+# phpstorm
+.idea
